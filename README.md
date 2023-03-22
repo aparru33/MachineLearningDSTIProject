@@ -52,4 +52,4 @@ a grade over 100.
  - Model training (motivation for selected model, comparison of different models) and evaluation (evaluation metric, results interpretation) [1 point]
  - Project report (short report explaining the approach and results) [1 point]
  - Project reproducibility (requirements file with necessary packages, README file for running the project) [1 point]
- - Project hosting and deployment (Github, Docker, AWS, Heroku or any other method)[1 point]
+ - Project hosting and deployment (Github, Docker, AWS, Heroku or any other method) [1 point]
