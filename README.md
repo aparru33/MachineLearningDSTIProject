@@ -46,13 +46,13 @@ PROJECT EVALUATION:
 Both projects will be evaluated using the following rubric. It contains the required items for a
 complete submission. The grading system is over 5 and the final grade will be transformed to
 a grade over 100.
-● Data analysis (data processing, data cleaning, exploratory analysis, plots of relevant
+ - Data analysis (data processing, data cleaning, exploratory analysis, plots of relevant
 attributes) and feature selection (feature engineering, feature pruning, choice
 justification) [1 point]
-● Model training (motivation for selected model, comparison of different models) and
+ - Model training (motivation for selected model, comparison of different models) and
 evaluation (evaluation metric, results interpretation) [1 point]
-● Project report (short report explaining the approach and results) [1 point]
-● Project reproducibility (requirements file with necessary packages, README file for
+ - Project report (short report explaining the approach and results) [1 point]
+ - Project reproducibility (requirements file with necessary packages, README file for
 running the project) [1 point]
-● Project hosting and deployment (Github, Docker, AWS, Heroku or any other method)
+ - Project hosting and deployment (Github, Docker, AWS, Heroku or any other method)
 [1 point]
