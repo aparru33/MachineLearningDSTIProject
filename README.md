@@ -26,7 +26,7 @@ standard for English.
 11) publication_date: The date the book was published.
 12) publisher: The name of the book publisher.
 
-PROJECT OBJECTIVES:
+*PROJECT OBJECTIVES*:
 Using the provided dataset, you are asked to train a model that predicts a book’s rating. The
 project can be submitted as a Jupyter Notebook (at least) and should include exploratory
 analysis of the data, feature engineering and selection, model training and evaluation and
