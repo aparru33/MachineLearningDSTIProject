@@ -8,6 +8,7 @@ SUMMARY OF THE PROJECT (PROVIDED BY HANNA ABI AKL) :
 Nowadays with so many books available, it can be hard to select the best ones to read. The
 dataset provided is a curation of Goodreads books based on real user information. It can be
 used for many tasks like predicting a book’s rating or recommending new books.
+
 Below is the information you have regarding the dataset attributes:
 1) bookID: A unique identification number for each book.
 2) title: The name under which the book was published.
