@@ -39,8 +39,8 @@ Project 1 Resources:
 Here are additional resources that may be helpful for the project. These resources are not
 mandatory to use but are meant to give you ideas on enriching the data or analysing the
 attributes in the dataset.
-● Goodreads Datasets
-● Recommending Goodreads Books using Data Mining
+ - Goodreads Datasets
+ - Recommending Goodreads Books using Data Mining
 
 PROJECT EVALUATION:
 Both projects will be evaluated using the following rubric. It contains the required items for a
