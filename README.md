@@ -1,5 +1,5 @@
 The target of this project is to develop an end to end Machine Learning Pipeline.
-It is done for the Machine Learning course from the instructor Hanna Abi Akl at DSTI.
+It is done for the Machine Learning course from the instructor **Hanna Abi Akl** at **DSTI**.
 
  The project is a group project.
  
