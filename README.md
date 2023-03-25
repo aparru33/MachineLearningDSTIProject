@@ -1,3 +1,6 @@
+**Project: Book Rating Prediction Model**
+
+
 The target of this project is to develop an end to end Machine Learning Pipeline.
 It is done for the Machine Learning course from the instructor **Hanna Abi Akl** at **DSTI**.
 
