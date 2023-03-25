@@ -1,4 +1,4 @@
-**Project: Book Rating Prediction Model**
+**Project: Book Recommendation System**
 
 
 The target of this project is to develop an end to end Machine Learning Pipeline.
@@ -7,7 +7,7 @@ It is done for the Machine Learning course from the instructor **Hanna Abi Akl**
 The project is a group project.
  
 We have chosen to build a recommender system based on the data provided by kaggle at https://www.kaggle.com/datasets/saurabhbagchi/books-dataset. 
-The project is done in three step which each have their file:
+The project is done in three steps which each have their jupyter notebook:
 * [Data Cleaning](cleaning_data.ipynb)
 * [Exploratory Data Analysis](Exploratory%20Data%20Analysis.ipynb)
 * [Book Predictions](book_predictions.ipynb)
