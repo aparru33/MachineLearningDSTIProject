@@ -1,13 +1,15 @@
 The target of this project is to develop an end to end Machine Learning Pipeline.
 It is done for the Machine Learning course from the instructor **Hanna Abi Akl** at **DSTI**.
 
- The project is a group project.
- The project is done in three step:
+The project is a group project.
+ 
+We have chosen to build a recommender system based on the data provided by kaggle at https://www.kaggle.com/datasets/saurabhbagchi/books-dataset. 
+ The project is done in three step which each have their file:
 * [Data Cleaning](cleaning_data.ipynb)
 * [Exploratory Data Analysis](Exploratory%20Data%20Analysis.ipynb)
 * [Book Predictions](book_predictions.ipynb)
  
-SUMMARY OF THE PROJECT (PROVIDED BY **HANNA ABI AKL**) :
+Below is the summary of the project (PROVIDED BY our great teacher **HANNA ABI AKL**) :
  
 Nowadays with so many books available, it can be hard to select the best ones to read. The
 dataset provided is a curation of Goodreads books based on real user information. It can be
