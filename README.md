@@ -4,10 +4,11 @@ It is done for the Machine Learning course from the instructor **Hanna Abi Akl**
 The project is a group project.
  
 We have chosen to build a recommender system based on the data provided by kaggle at https://www.kaggle.com/datasets/saurabhbagchi/books-dataset. 
- The project is done in three step which each have their file:
+The project is done in three step which each have their file:
 * [Data Cleaning](cleaning_data.ipynb)
 * [Exploratory Data Analysis](Exploratory%20Data%20Analysis.ipynb)
 * [Book Predictions](book_predictions.ipynb)
+
  
 Below is the summary of the project (PROVIDED BY our great teacher **HANNA ABI AKL**) :
  
