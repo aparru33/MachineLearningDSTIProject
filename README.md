@@ -1,10 +1,11 @@
 **Project: Book Recommendation System**
 
 
-The target of this project is to develop an end to end Machine Learning Pipeline.
+The target of this project is to develop an end to end Machine Learning Pipeline with python.
 It is done for the Machine Learning course from the instructor **Hanna Abi Akl** at **DSTI**.
 
-The project is a group project.
+The project is a group project. The git repository is at https://github.com/aparru33/MachineLearningDSTIProject.git.
+The python libraries installed for the project are in the files requirement.txt. 
  
 We have chosen to build a recommender system based on the data provided by kaggle at https://www.kaggle.com/datasets/saurabhbagchi/books-dataset. 
 The project is done in three steps which each have their jupyter notebook:
